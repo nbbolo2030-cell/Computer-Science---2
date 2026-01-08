@@ -1,5 +1,5 @@
 # Grant-Me!
-# Description :
+# Project Description :
   Grant-Me! is a wish-making program featuring Genie Jie-genie, which is the programs Wishing bot. Make a wish and he'll grant it!
 
   ## (ALPHA) Code overview :
